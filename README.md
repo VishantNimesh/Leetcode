@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/VishantNimesh/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/VishantNimesh/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VishantNimesh/Leetcode/tree/master/0020-valid-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [3044-minimum-operations-to-collect-elements](https://github.com/VishantNimesh/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3044-minimum-operations-to-collect-elements](https://github.com/VishantNimesh/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 <!---LeetCode Topics End-->
