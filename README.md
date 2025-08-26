@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/VishantNimesh/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0496-next-greater-element-i](https://github.com/VishantNimesh/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/VishantNimesh/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/VishantNimesh/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Dynamic Programming
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/VishantNimesh/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/VishantNimesh/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/VishantNimesh/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/VishantNimesh/Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -47,4 +49,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/VishantNimesh/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/VishantNimesh/Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
