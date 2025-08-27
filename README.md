@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/VishantNimesh/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/VishantNimesh/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/VishantNimesh/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/VishantNimesh/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Dynamic Programming
 |  |
 | ------- |
