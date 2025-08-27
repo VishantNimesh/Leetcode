@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/VishantNimesh/Leetcode/tree/master/0062-unique-paths) |
 | [0152-maximum-product-subarray](https://github.com/VishantNimesh/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/VishantNimesh/Leetcode/tree/master/0198-house-robber) |
 | [0943-sum-of-subarray-minimums](https://github.com/VishantNimesh/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -60,9 +61,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/VishantNimesh/Leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/VishantNimesh/Leetcode/tree/master/0069-sqrtx) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/VishantNimesh/Leetcode/tree/master/0069-sqrtx) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/VishantNimesh/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
