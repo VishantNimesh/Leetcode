@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/VishantNimesh/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/VishantNimesh/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/VishantNimesh/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VishantNimesh/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/VishantNimesh/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Dynamic Programming
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/VishantNimesh/Leetcode/tree/master/0496-next-greater-element-i) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/VishantNimesh/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VishantNimesh/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2573-remove-nodes-from-linked-list](https://github.com/VishantNimesh/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
+## Sorting
+|  |
+| ------- |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VishantNimesh/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 <!---LeetCode Topics End-->
