@@ -10,36 +10,23 @@
  */
 class Solution {
     public void reorderList(ListNode head) {
-        ListNode slow = head;
-        ListNode fast = head.next;
-        while(fast != null && fast.next != null) {
-            slow = slow.next;
-            fast = fast.next.next;
-        }
-        ListNode mid = slow;
-        
-        ListNode curr = mid.next; //reverse 2nd half
-        mid.next = null;
-        ListNode prev = null;
+        Stack<ListNode> stack = new Stack<>();
+        ListNode curr = head;
+        int length = 0;
         while (curr != null) {
+            stack.push(curr);
+            curr = curr.next;
+            length++;
+        }
+        curr = head;
+        for (int i = 0; i < length / 2; i++) {
+            ListNode end = stack.pop(); 
+            ListNode nextNode = curr.next;
+            curr.next = end;
+            end.next = nextNode;
             
-            ListNode next = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = next;
+            curr = nextNode;
         }
-
-        ListNode left = head;
-        ListNode right = prev;
-        ListNode nextL, nextR;
-        while (left != null && right != null) { // merging
-            nextL = left.next;
-            left.next = right;
-            nextR = right.next;
-            right.next = nextL;
-
-            left = nextL;
-            right = nextR;  
-        }
+        curr.next = null; 
     }
 }
