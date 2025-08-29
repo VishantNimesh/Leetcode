@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VishantNimesh/Leetcode/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/VishantNimesh/Leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/VishantNimesh/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/VishantNimesh/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/VishantNimesh/Leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -84,13 +85,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/VishantNimesh/Leetcode/tree/master/0143-reorder-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/VishantNimesh/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/VishantNimesh/Leetcode/tree/master/0143-reorder-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/VishantNimesh/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Sorting
 |  |
 | ------- |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VishantNimesh/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/VishantNimesh/Leetcode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
