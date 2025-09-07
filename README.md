@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/VishantNimesh/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/VishantNimesh/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/VishantNimesh/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/VishantNimesh/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2227-sum-of-subarray-ranges](https://github.com/VishantNimesh/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/VishantNimesh/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VishantNimesh/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/VishantNimesh/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/VishantNimesh/Leetcode/tree/master/0020-valid-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/VishantNimesh/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/VishantNimesh/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
 |  |
 | ------- |
