@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/VishantNimesh/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/VishantNimesh/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/VishantNimesh/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VishantNimesh/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/VishantNimesh/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/VishantNimesh/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2227-sum-of-subarray-ranges](https://github.com/VishantNimesh/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/VishantNimesh/Leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/VishantNimesh/Leetcode/tree/master/0069-sqrtx) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VishantNimesh/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/VishantNimesh/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3830-find-closest-person](https://github.com/VishantNimesh/Leetcode/tree/master/3830-find-closest-person) |
 ## Binary Search
