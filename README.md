@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/VishantNimesh/Leetcode/tree/master/0020-valid-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/VishantNimesh/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/VishantNimesh/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2887-sort-vowels-in-a-string](https://github.com/VishantNimesh/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2887-sort-vowels-in-a-string](https://github.com/VishantNimesh/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VishantNimesh/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
