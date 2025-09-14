@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VishantNimesh/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/VishantNimesh/Leetcode/tree/master/0020-valid-parentheses) |
+| [0412-fizz-buzz](https://github.com/VishantNimesh/Leetcode/tree/master/0412-fizz-buzz) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/VishantNimesh/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/VishantNimesh/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2887-sort-vowels-in-a-string](https://github.com/VishantNimesh/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/VishantNimesh/Leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/VishantNimesh/Leetcode/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/VishantNimesh/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0412-fizz-buzz](https://github.com/VishantNimesh/Leetcode/tree/master/0412-fizz-buzz) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VishantNimesh/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/VishantNimesh/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3830-find-closest-person](https://github.com/VishantNimesh/Leetcode/tree/master/3830-find-closest-person) |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/VishantNimesh/Leetcode/tree/master/0096-unique-binary-search-trees) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/VishantNimesh/Leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
