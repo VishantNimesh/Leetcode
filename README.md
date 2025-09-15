@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/VishantNimesh/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0152-maximum-product-subarray](https://github.com/VishantNimesh/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/VishantNimesh/Leetcode/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/VishantNimesh/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0496-next-greater-element-i](https://github.com/VishantNimesh/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VishantNimesh/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/VishantNimesh/Leetcode/tree/master/0518-coin-change-ii) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/VishantNimesh/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0152-maximum-product-subarray](https://github.com/VishantNimesh/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/VishantNimesh/Leetcode/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/VishantNimesh/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0518-coin-change-ii](https://github.com/VishantNimesh/Leetcode/tree/master/0518-coin-change-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/VishantNimesh/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1250-longest-common-subsequence](https://github.com/VishantNimesh/Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/VishantNimesh/Leetcode/tree/master/0069-sqrtx) |
+| [0300-longest-increasing-subsequence](https://github.com/VishantNimesh/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/VishantNimesh/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Combinatorics
 |  |
