@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/VishantNimesh/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0199-binary-tree-right-side-view](https://github.com/VishantNimesh/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -190,8 +191,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/VishantNimesh/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0199-binary-tree-right-side-view](https://github.com/VishantNimesh/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/VishantNimesh/Leetcode/tree/master/0412-fizz-buzz) |
+## Depth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/VishantNimesh/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/VishantNimesh/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
