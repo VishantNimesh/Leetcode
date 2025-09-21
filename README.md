@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/VishantNimesh/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VishantNimesh/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/VishantNimesh/Leetcode/tree/master/0518-coin-change-ii) |
+| [0907-koko-eating-bananas](https://github.com/VishantNimesh/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/VishantNimesh/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/VishantNimesh/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/VishantNimesh/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/VishantNimesh/Leetcode/tree/master/0069-sqrtx) |
 | [0300-longest-increasing-subsequence](https://github.com/VishantNimesh/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0907-koko-eating-bananas](https://github.com/VishantNimesh/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/VishantNimesh/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Combinatorics
 |  |
