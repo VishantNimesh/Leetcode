@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/VishantNimesh/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/VishantNimesh/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/VishantNimesh/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/VishantNimesh/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VishantNimesh/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/VishantNimesh/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/VishantNimesh/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/VishantNimesh/Leetcode/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/VishantNimesh/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0412-fizz-buzz](https://github.com/VishantNimesh/Leetcode/tree/master/0412-fizz-buzz) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/VishantNimesh/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VishantNimesh/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/VishantNimesh/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3830-find-closest-person](https://github.com/VishantNimesh/Leetcode/tree/master/3830-find-closest-person) |
