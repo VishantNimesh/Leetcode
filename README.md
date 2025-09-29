@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/VishantNimesh/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/VishantNimesh/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/VishantNimesh/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/VishantNimesh/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/VishantNimesh/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VishantNimesh/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/VishantNimesh/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/VishantNimesh/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0518-coin-change-ii](https://github.com/VishantNimesh/Leetcode/tree/master/0518-coin-change-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/VishantNimesh/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/VishantNimesh/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1250-longest-common-subsequence](https://github.com/VishantNimesh/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Stack
 |  |
