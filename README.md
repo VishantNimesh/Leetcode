@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/VishantNimesh/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/VishantNimesh/Leetcode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/VishantNimesh/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1078-remove-outermost-parentheses](https://github.com/VishantNimesh/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/VishantNimesh/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2573-remove-nodes-from-linked-list](https://github.com/VishantNimesh/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Design
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/VishantNimesh/Leetcode/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/VishantNimesh/Leetcode/tree/master/0072-edit-distance) |
 | [0412-fizz-buzz](https://github.com/VishantNimesh/Leetcode/tree/master/0412-fizz-buzz) |
+| [1078-remove-outermost-parentheses](https://github.com/VishantNimesh/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/VishantNimesh/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/VishantNimesh/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/VishantNimesh/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
