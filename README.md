@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2238-a-number-after-a-double-reversal](https://github.com/VishantNimesh/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/VishantNimesh/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3830-find-closest-person](https://github.com/VishantNimesh/Leetcode/tree/master/3830-find-closest-person) |
+| [4051-remove-zeros-in-decimal-representation](https://github.com/VishantNimesh/Leetcode/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Binary Search
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/VishantNimesh/Leetcode/tree/master/0412-fizz-buzz) |
+| [4051-remove-zeros-in-decimal-representation](https://github.com/VishantNimesh/Leetcode/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Depth-First Search
 |  |
 | ------- |
