@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/VishantNimesh/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/VishantNimesh/Leetcode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/VishantNimesh/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0486-predict-the-winner](https://github.com/VishantNimesh/Leetcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/VishantNimesh/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VishantNimesh/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/VishantNimesh/Leetcode/tree/master/0518-coin-change-ii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/VishantNimesh/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/VishantNimesh/Leetcode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/VishantNimesh/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0486-predict-the-winner](https://github.com/VishantNimesh/Leetcode/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/VishantNimesh/Leetcode/tree/master/0518-coin-change-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/VishantNimesh/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/VishantNimesh/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/VishantNimesh/Leetcode/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/VishantNimesh/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0412-fizz-buzz](https://github.com/VishantNimesh/Leetcode/tree/master/0412-fizz-buzz) |
+| [0486-predict-the-winner](https://github.com/VishantNimesh/Leetcode/tree/master/0486-predict-the-winner) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/VishantNimesh/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VishantNimesh/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2238-a-number-after-a-double-reversal](https://github.com/VishantNimesh/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/VishantNimesh/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/VishantNimesh/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/VishantNimesh/Leetcode/tree/master/0143-reorder-list) |
+| [0486-predict-the-winner](https://github.com/VishantNimesh/Leetcode/tree/master/0486-predict-the-winner) |
 | [2573-remove-nodes-from-linked-list](https://github.com/VishantNimesh/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Sorting
 |  |
@@ -260,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1801-average-time-of-process-per-machine](https://github.com/VishantNimesh/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/VishantNimesh/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/VishantNimesh/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/VishantNimesh/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
