@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VishantNimesh/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/VishantNimesh/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/VishantNimesh/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/VishantNimesh/Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/VishantNimesh/Leetcode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/VishantNimesh/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/VishantNimesh/Leetcode/tree/master/0486-predict-the-winner) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VishantNimesh/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VishantNimesh/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/VishantNimesh/Leetcode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/VishantNimesh/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/VishantNimesh/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/VishantNimesh/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/VishantNimesh/Leetcode/tree/master/0169-majority-element) |
 | [0611-valid-triangle-number](https://github.com/VishantNimesh/Leetcode/tree/master/0611-valid-triangle-number) |
 | [2887-sort-vowels-in-a-string](https://github.com/VishantNimesh/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VishantNimesh/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/VishantNimesh/Leetcode/tree/master/0169-majority-element) |
 | [1034-subarrays-with-k-different-integers](https://github.com/VishantNimesh/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VishantNimesh/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Tree
@@ -268,4 +272,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/VishantNimesh/Leetcode/tree/master/0486-predict-the-winner) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/VishantNimesh/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/VishantNimesh/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
