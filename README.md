@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/VishantNimesh/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/VishantNimesh/Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/VishantNimesh/Leetcode/tree/master/0198-house-robber) |
+| [0268-missing-number](https://github.com/VishantNimesh/Leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/VishantNimesh/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/VishantNimesh/Leetcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/VishantNimesh/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/VishantNimesh/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VishantNimesh/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/VishantNimesh/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/VishantNimesh/Leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/VishantNimesh/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/VishantNimesh/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/VishantNimesh/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/VishantNimesh/Leetcode/tree/master/0268-missing-number) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/VishantNimesh/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Monotonic Stack
 |  |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/VishantNimesh/Leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/VishantNimesh/Leetcode/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/VishantNimesh/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0268-missing-number](https://github.com/VishantNimesh/Leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/VishantNimesh/Leetcode/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/VishantNimesh/Leetcode/tree/master/0486-predict-the-winner) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/VishantNimesh/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/VishantNimesh/Leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/VishantNimesh/Leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/VishantNimesh/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0611-valid-triangle-number](https://github.com/VishantNimesh/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0907-koko-eating-bananas](https://github.com/VishantNimesh/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -179,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/VishantNimesh/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/VishantNimesh/Leetcode/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/VishantNimesh/Leetcode/tree/master/0611-valid-triangle-number) |
 | [2887-sort-vowels-in-a-string](https://github.com/VishantNimesh/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VishantNimesh/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
