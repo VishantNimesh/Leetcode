@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/VishantNimesh/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VishantNimesh/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/VishantNimesh/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2029-stone-game-ix](https://github.com/VishantNimesh/Leetcode/tree/master/2029-stone-game-ix) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/VishantNimesh/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2227-sum-of-subarray-ranges](https://github.com/VishantNimesh/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/VishantNimesh/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/VishantNimesh/Leetcode/tree/master/0486-predict-the-winner) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/VishantNimesh/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VishantNimesh/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [2029-stone-game-ix](https://github.com/VishantNimesh/Leetcode/tree/master/2029-stone-game-ix) |
 | [2238-a-number-after-a-double-reversal](https://github.com/VishantNimesh/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/VishantNimesh/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3830-find-closest-person](https://github.com/VishantNimesh/Leetcode/tree/master/3830-find-closest-person) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/VishantNimesh/Leetcode/tree/master/0169-majority-element) |
 | [1034-subarrays-with-k-different-integers](https://github.com/VishantNimesh/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [2029-stone-game-ix](https://github.com/VishantNimesh/Leetcode/tree/master/2029-stone-game-ix) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VishantNimesh/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Tree
 |  |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/VishantNimesh/Leetcode/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/VishantNimesh/Leetcode/tree/master/0611-valid-triangle-number) |
+| [2029-stone-game-ix](https://github.com/VishantNimesh/Leetcode/tree/master/2029-stone-game-ix) |
 ## Database
 |  |
 | ------- |
@@ -280,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/VishantNimesh/Leetcode/tree/master/0486-predict-the-winner) |
+| [2029-stone-game-ix](https://github.com/VishantNimesh/Leetcode/tree/master/2029-stone-game-ix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -288,4 +293,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/VishantNimesh/Leetcode/tree/master/0169-majority-element) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/VishantNimesh/Leetcode/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/VishantNimesh/Leetcode/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/VishantNimesh/Leetcode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
