@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/VishantNimesh/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VishantNimesh/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/VishantNimesh/Leetcode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/VishantNimesh/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/VishantNimesh/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0119-pascals-triangle-ii](https://github.com/VishantNimesh/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VishantNimesh/Leetcode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/VishantNimesh/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/VishantNimesh/Leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/VishantNimesh/Leetcode/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/VishantNimesh/Leetcode/tree/master/0096-unique-binary-search-trees) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/VishantNimesh/Leetcode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/VishantNimesh/Leetcode/tree/master/0063-unique-paths-ii) |
 ## Linked List
 |  |
