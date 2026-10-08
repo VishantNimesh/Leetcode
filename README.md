@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/VishantNimesh/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VishantNimesh/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/VishantNimesh/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0040-combination-sum-ii](https://github.com/VishantNimesh/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/VishantNimesh/Leetcode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/VishantNimesh/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/VishantNimesh/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -315,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/VishantNimesh/Leetcode/tree/master/2029-stone-game-ix) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/VishantNimesh/Leetcode/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
